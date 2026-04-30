@@ -1,4 +1,4 @@
-package Simple_Animal;
+package ObjectCreation.Simple_Object_Animal;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package Abstract_Dog;
+package Types_of_Classes.Abstract_Dog_using_extends;
 
 public  class Dog extends Animal{
 

@@ -1,4 +1,6 @@
-package Person;
+package Types_of_Classes.Indian_using_both_extends_and_implements;
+
+           //"Indian" is normal class extending one abstract class and 2 Interfaces
 
 class Indian extends Person implements EatTask, SleepTask {
 

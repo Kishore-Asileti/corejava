@@ -1,4 +1,4 @@
-package Static_instance_variables;
+package ObjectCreation.Static_and_instance_variables;
 
 public class Main {
     public static void main(String[] args) {

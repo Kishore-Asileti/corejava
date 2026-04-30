@@ -1,4 +1,4 @@
-package Interface_Dog;
+package Types_of_Classes.Interface_Dog_using_implements;
 
 public class Dog implements Animal{
 
