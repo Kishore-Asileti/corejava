@@ -12,6 +12,10 @@ class Indian extends Person implements EatTask, SleepTask {
         System.out.println(name + " is eating");
     }
 
+        public void drink() {
+            System.out.println(name + " is drinking");
+        }
+
     public void sleep() {
         System.out.println(name + " is sleeping");
     }

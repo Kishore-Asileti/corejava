@@ -6,7 +6,8 @@ public class Main {
 
         p.breathe();  // from abstract class
         p.eat();      // from EatTask
-        p.sleep();    // from SleepTask
+        p.sleep();
+        p.drink();// from SleepTask
 
     }
 }
