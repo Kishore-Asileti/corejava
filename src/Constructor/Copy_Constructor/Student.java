@@ -5,7 +5,7 @@ public class Student {
     String name;
     int age;
 
-    // Normal constructor
+    // Normal constructor or paramerized constructor
     Student(String name, int age) {
         this.name = name;
         this.age = age;
